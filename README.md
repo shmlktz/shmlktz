@@ -1,3 +1,5 @@
-# Testing
-## testing
-## old resumé here: bit.ly
+# Shmuel Katz
+## digital craftsman
+
+
+    __old resumé here__ : bit.ly
