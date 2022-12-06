@@ -5,4 +5,4 @@
 #####
 ######
 
-bit.ly/katz_shmuel
+http://www.bit.ly/katz_shmuel
