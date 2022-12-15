@@ -1,6 +1,6 @@
 # Shmuel Katz
 ## digital craftsman 
-### 
+###  
 ####
 #####
 ######
